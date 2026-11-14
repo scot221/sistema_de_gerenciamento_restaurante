@@ -1,0 +1,8 @@
+*.class
+bin/
+out/
+build/
+target/
+.vscode/
+*.jar
+*.log
