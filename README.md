@@ -28,7 +28,8 @@ Sistema para gerenciar o cardápio, as comandas e o fechamento de contas de um r
 4. Abra no navegador: http://localhost:8080
 
 ## Exemplo de uso
-<img width="1873" height="1011" alt="image" src="https://github.com/user-attachments/assets/6c81ce5f-13e6-4ddc-af7e-736bb06d8b93" />
+<img width="1873" height="937" alt="image" src="https://github.com/user-attachments/assets/eabb8047-1350-47ef-8823-8d659e55c7dd" />
+
 
 
 ## Estrutura das pastas
