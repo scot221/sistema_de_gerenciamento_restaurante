@@ -5,7 +5,7 @@ Sistema para gerenciar o cardápio, as comandas e o fechamento de contas de um r
 ## Integrantes
 - Davi (@scot221)
 - Pietro (@zpietrohenrique-alt)
-- Samuel (@samuZsp)
+- Samuel (@SaMuZsp)
 
 ## Tecnologias e versões
 - Java (JDK 25)
