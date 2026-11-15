@@ -3,8 +3,8 @@
 Sistema para gerenciar o cardápio, as comandas e o fechamento de contas de um restaurante, com promoções (happy hour e desconto em sobremesas). Projeto da disciplina de Programação Orientada a Objetos (IFMT).
 
 ## Integrantes
-- Seu Nome (@scot221)
-- Colega 2 (@usuario-github)
+- Davi (@scot221)
+- Pietro (@zpietrohenrique-alt)
 - Colega 3 (@usuario-github)
 
 ## Tecnologias e versões
