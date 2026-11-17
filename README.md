@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de um Restaurante (Pedidos)
 
-Sistema para gerenciar o cardápio, as comandas e o fechamento de contas de um restaurante, com promoções (happy hour e desconto em sobremesas). Projeto da disciplina de Programação Orientada a Objetos (IFMT).
+Sistema para gerenciar o cardápio, as comandas e o fechamento de contas de um restaurante, com promoções (Happy Hour e desconto em sobremesas). Projeto da disciplina de Programação Orientada a Objetos (IFMT), com orientação do docente Rafael Oliveira.
 
 ## Integrantes
 - Davi (@scot221)
